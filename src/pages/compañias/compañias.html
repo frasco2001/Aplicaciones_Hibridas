@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Compañias</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="openModal()">
+        <ion-icon name="add-circle"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-searchbar [(ngModel)]="terms"></ion-searchbar>
+    <button ion-button type="button" (click)="sortName()">Ordenar por Nombre</button>
+    <ion-item *ngFor="let compania of companias | search : terms | sort: {property: column, order: order}">
+      <h2>{{ compania.nombre }}</h2>
+    </ion-item>
+  </ion-list>
+</ion-content>
