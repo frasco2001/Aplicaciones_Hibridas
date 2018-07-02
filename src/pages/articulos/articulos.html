@@ -16,11 +16,12 @@
     <button ion-button type="button" (click)="sortCode()">Ordenar por Código</button>
     <button ion-button type="button" (click)="sortPrice()">Ordenar por Precio</button>
     <ion-item *ngFor="let articulo of articulos | search : terms | sort: {property: column, order: order}">
-      <button ion-button icon-only item-end (click)="openDetalleArticulo(articulo)">
+      <button ion-button icon-only item-right (click)="openDetalleArticulo(articulo)">
         <ion-icon name="eye"></ion-icon>
       </button>
+      
       <h2>{{ articulo.nombre }} - ({{ articulo.codigo}})</h2>
-      <p>{{ articulo.precio }}</p>
+      <p>{{ articulo.precio }} €</p>
     </ion-item>
   </ion-list>
 </ion-content>

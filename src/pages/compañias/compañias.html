@@ -14,6 +14,12 @@
     <ion-searchbar [(ngModel)]="terms"></ion-searchbar>
     <button ion-button type="button" (click)="sortName()">Ordenar por Nombre</button>
     <ion-item *ngFor="let compania of companias | search : terms | sort: {property: column, order: order}">
+      <button ion-button icon-only item-right (click)="openListaArticulos(compania)">
+        <ion-icon name="list"></ion-icon>
+      </button>
+      <button ion-button icon-only item-end (click)="openDetalleCompania(compania)">
+        <ion-icon name="eye"></ion-icon>
+      </button>
       <h2>{{ compania.nombre }}</h2>
     </ion-item>
   </ion-list>

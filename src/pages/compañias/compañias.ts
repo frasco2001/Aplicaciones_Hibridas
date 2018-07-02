@@ -3,6 +3,8 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { ApiProvider } from '../../providers/api/api';
 import { ModalController } from 'ionic-angular';
 import { NuevaCompañiaPage } from './../nueva-compañia/nueva-compañia';
+import { DetalleCompañiaPage } from './../detalle-compañia/detalle-compañia';
+import { ListaArticulosPage } from './../lista-articulos/lista-articulos';
 
 @IonicPage()
 @Component({
@@ -43,6 +45,23 @@ export class CompañiasPage {
     });
     compañiaModal.present();
   }
+
+  openDetalleCompania(data) {
+    let detalleCompaniaModal = this.modalCtrl.create(DetalleCompañiaPage, data);
+    detalleCompaniaModal.onDidDismiss(data => {
+      this.getCompañias();
+    });
+    detalleCompaniaModal.present();
+  }
+
+  openListaArticulos(data) {
+    let listaArticulosModal = this.modalCtrl.create(ListaArticulosPage, data);
+    listaArticulosModal.onDidDismiss(data => {
+      this.getCompañias();
+    });
+    listaArticulosModal.present();
+  }
+
   
   sortName() {
     this.column = 'nombre';

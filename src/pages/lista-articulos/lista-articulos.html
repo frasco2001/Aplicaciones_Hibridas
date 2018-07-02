@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Lista de Articulos</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-searchbar [(ngModel)]="terms"></ion-searchbar>
+    <button ion-button type="button" (click)="sortName()">Ordenar por Nombre</button>
+    <button ion-button type="button" (click)="sortCode()">Ordenar por Código</button>
+    <button ion-button type="button" (click)="sortPrice()">Ordenar por Precio</button>
+    <button ion-button icon-left item-right color="orange" (click)="salir()">
+      Salir&nbsp;
+      <ion-icon name="arrow-back"></ion-icon>
+    </button>
+    <ion-item *ngFor="let articulo of listaArticulos | search : terms | sort: {property: column, order: order}">
+      <button ion-button icon-only item-right (click)="openDetalleArticulo(articulo)">
+        <ion-icon name="eye"></ion-icon>
+      </button>
+      <h2>{{ articulo.nombre }} - ({{ articulo.codigo}})</h2>
+      <p>{{ articulo.precio }} €</p>
+    </ion-item>
+  </ion-list>
+  
+</ion-content>
