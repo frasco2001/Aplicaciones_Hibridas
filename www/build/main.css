@@ -5609,11 +5609,20 @@ ion-badge:empty {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .badge-ios-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .badge-md {
   border-radius: 4px;
   color: #fff;
@@ -5645,11 +5654,20 @@ ion-badge:empty {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .badge-md-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .badge-wp {
   border-radius: 0;
   color: #fff;
@@ -5681,11 +5699,20 @@ ion-badge:empty {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .badge-wp-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .button {
   text-align: center;
   -moz-appearance: none;
@@ -6054,6 +6081,10 @@ button[disabled],
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .button-ios-orange {
   color: #fff;
   background-color: #FF8000;
@@ -6088,6 +6119,11 @@ button[disabled],
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .button-strong-ios {
   font-weight: 600;
 }
@@ -6491,6 +6527,10 @@ button[disabled],
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .button-md-orange {
   color: #fff;
   background-color: #FF8000;
@@ -6543,6 +6583,11 @@ button[disabled],
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .button-strong-md {
   font-weight: bold;
 }
@@ -6844,6 +6889,10 @@ button[disabled],
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .button-wp-orange {
   color: #fff;
   background-color: #FF8000;
@@ -6886,6 +6935,11 @@ button[disabled],
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .button-strong-wp {
   font-weight: bold;
 }
@@ -7048,6 +7102,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-ios-primary .text-ios-orange,
 .card-ios-primary .card-header-ios-orange,
 .card-ios-primary .card-title-ios-orange,
@@ -7055,6 +7113,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-ios-primary,
 .card-title-ios-primary,
 .card-content-ios-primary {
@@ -7112,6 +7175,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-ios-secondary .text-ios-orange,
 .card-ios-secondary .card-header-ios-orange,
 .card-ios-secondary .card-title-ios-orange,
@@ -7119,6 +7186,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-ios-secondary,
 .card-title-ios-secondary,
 .card-content-ios-secondary {
@@ -7176,6 +7248,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-ios-danger .text-ios-orange,
 .card-ios-danger .card-header-ios-orange,
 .card-ios-danger .card-title-ios-orange,
@@ -7183,6 +7259,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-ios-danger,
 .card-title-ios-danger,
 .card-content-ios-danger {
@@ -7240,6 +7321,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-ios-light .text-ios-orange,
 .card-ios-light .card-header-ios-orange,
 .card-ios-light .card-title-ios-orange,
@@ -7247,6 +7332,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-ios-light,
 .card-title-ios-light,
 .card-content-ios-light {
@@ -7304,6 +7394,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-ios-dark .text-ios-orange,
 .card-ios-dark .card-header-ios-orange,
 .card-ios-dark .card-title-ios-orange,
@@ -7311,12 +7405,21 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-ios-dark,
 .card-title-ios-dark,
 .card-content-ios-dark {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-ios .text-ios-orange {
   color: #FF8000;
 }
@@ -7381,6 +7484,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-md {
   margin: 10px;
   border-radius: 2px;
@@ -7528,6 +7636,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-md-primary .text-md-orange,
 .card-md-primary .card-header-md-orange,
 .card-md-primary .card-title-md-orange,
@@ -7535,6 +7647,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-md-primary,
 .card-title-md-primary,
 .card-content-md-primary {
@@ -7598,6 +7715,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-md-secondary .text-md-orange,
 .card-md-secondary .card-header-md-orange,
 .card-md-secondary .card-title-md-orange,
@@ -7605,6 +7726,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-md-secondary,
 .card-title-md-secondary,
 .card-content-md-secondary {
@@ -7668,6 +7794,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-md-danger .text-md-orange,
 .card-md-danger .card-header-md-orange,
 .card-md-danger .card-title-md-orange,
@@ -7675,6 +7805,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-md-danger,
 .card-title-md-danger,
 .card-content-md-danger {
@@ -7738,6 +7873,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-md-light .text-md-orange,
 .card-md-light .card-header-md-orange,
 .card-md-light .card-title-md-orange,
@@ -7745,6 +7884,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-md-light,
 .card-title-md-light,
 .card-content-md-light {
@@ -7808,6 +7952,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-md-dark .text-md-orange,
 .card-md-dark .card-header-md-orange,
 .card-md-dark .card-title-md-orange,
@@ -7815,12 +7963,21 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-md-dark,
 .card-title-md-dark,
 .card-content-md-dark {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-md .text-md-orange {
   color: #FF8000;
 }
@@ -7891,6 +8048,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-wp {
   margin: 8px;
   border-radius: 1px;
@@ -8038,6 +8200,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-wp-primary .text-wp-orange,
 .card-wp-primary .card-header-wp-orange,
 .card-wp-primary .card-title-wp-orange,
@@ -8045,6 +8211,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-wp-primary,
 .card-title-wp-primary,
 .card-content-wp-primary {
@@ -8108,6 +8279,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-wp-secondary .text-wp-orange,
 .card-wp-secondary .card-header-wp-orange,
 .card-wp-secondary .card-title-wp-orange,
@@ -8115,6 +8290,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-wp-secondary,
 .card-title-wp-secondary,
 .card-content-wp-secondary {
@@ -8178,6 +8358,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-wp-danger .text-wp-orange,
 .card-wp-danger .card-header-wp-orange,
 .card-wp-danger .card-title-wp-orange,
@@ -8185,6 +8369,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-wp-danger,
 .card-title-wp-danger,
 .card-content-wp-danger {
@@ -8248,6 +8437,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-wp-light .text-wp-orange,
 .card-wp-light .card-header-wp-orange,
 .card-wp-light .card-title-wp-orange,
@@ -8255,6 +8448,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-wp-light,
 .card-title-wp-light,
 .card-content-wp-light {
@@ -8318,6 +8516,10 @@ ion-card-content {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-wp-dark .text-wp-orange,
 .card-wp-dark .card-header-wp-orange,
 .card-wp-dark .card-title-wp-orange,
@@ -8325,12 +8527,21 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-header-wp-dark,
 .card-title-wp-dark,
 .card-content-wp-dark {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .card-wp .text-wp-orange {
   color: #FF8000;
 }
@@ -8401,6 +8612,11 @@ ion-card-content {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .checkbox-ios {
   position: relative;
   display: inline-block;
@@ -8499,6 +8715,10 @@ ion-card-content {
   border-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .checkbox-ios-orange .checkbox-checked {
   border-color: #FF8000;
   background-color: #FF8000;
@@ -8508,6 +8728,11 @@ ion-card-content {
   border-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .checkbox-md {
   position: relative;
   display: inline-block;
@@ -8616,6 +8841,10 @@ ion-card-content {
   border-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .checkbox-md-orange .checkbox-checked {
   border-color: #FF8000;
   background-color: #FF8000;
@@ -8625,6 +8854,11 @@ ion-card-content {
   border-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .checkbox-wp {
   position: relative;
   display: inline-block;
@@ -8727,6 +8961,10 @@ ion-card-content {
   border-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .checkbox-wp-orange .checkbox-checked {
   border-color: #FF8000;
   background-color: #FF8000;
@@ -8736,6 +8974,11 @@ ion-card-content {
   border-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-chip {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
@@ -8832,12 +9075,21 @@ ion-chip ion-avatar img {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .chip-ios-orange,
 .chip-ios .icon-ios-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .chip-md {
   border-radius: 16px;
   height: 32px;
@@ -8887,12 +9139,21 @@ ion-chip ion-avatar img {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .chip-md-orange,
 .chip-md .icon-md-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .chip-wp {
   border-radius: 16px;
   height: 32px;
@@ -8946,12 +9207,21 @@ ion-chip ion-avatar img {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .chip-wp-orange,
 .chip-wp .icon-wp-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-content {
   left: 0;
   top: 0;
@@ -9943,6 +10213,10 @@ ion-fab-list[side=right] {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .fab-ios-orange {
   color: #fff;
   background-color: #FF8000;
@@ -9952,6 +10226,11 @@ ion-fab-list[side=right] {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .fab-md {
   color: #fff;
   background-color: #488aff;
@@ -10051,6 +10330,10 @@ ion-fab-list[side=right] {
   background-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .fab-md-orange {
   color: #fff;
   background-color: #FF8000;
@@ -10064,6 +10347,11 @@ ion-fab-list[side=right] {
   background-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .fab-wp {
   color: #fff;
   background-color: #488aff;
@@ -10131,6 +10419,10 @@ ion-fab-list[side=right] {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .fab-wp-orange {
   color: #fff;
   background-color: #FF8000;
@@ -10140,6 +10432,11 @@ ion-fab-list[side=right] {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .grid {
   padding: 5px;
   margin-left: auto;
@@ -13374,10 +13671,19 @@ ion-icon[small] {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .icon-ios-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .icon-md-primary {
   color: #488aff;
 }
@@ -13398,10 +13704,19 @@ ion-icon[small] {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .icon-md-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .icon-wp-primary {
   color: #488aff;
 }
@@ -13422,10 +13737,19 @@ ion-icon[small] {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .icon-wp-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-img {
   display: inline-block;
   min-width: 20px;
@@ -14500,6 +14824,10 @@ ion-item-group .item-wrapper:last-child .item-ios .item-inner {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .item-ios .text-ios-orange {
   color: #FF8000;
 }
@@ -14520,6 +14848,11 @@ ion-item-group .item-wrapper:last-child .item-ios .item-inner {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .list-ios ion-item-sliding {
   background-color: #fff;
 }
@@ -14772,6 +15105,10 @@ ion-item-group .item-md .item-wrapper:last-child .item-inner {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .item-md .text-md-orange {
   color: #FF8000;
 }
@@ -14794,6 +15131,13 @@ ion-item-group .item-md .item-wrapper:last-child .item-inner {
 
 .list-md ion-item-sliding {
   background-color: #fff;
+<<<<<<< HEAD
+=======
+=======
+.list-md ion-item-sliding {
+  background-color: #fff;
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 }
 
 .item-md ion-reorder {
@@ -15043,6 +15387,10 @@ ion-item-group .item-md .item-wrapper:last-child .item-inner {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .item-wp .text-wp-orange {
   color: #FF8000;
 }
@@ -15063,6 +15411,11 @@ ion-item-group .item-md .item-wrapper:last-child .item-inner {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .list-wp ion-item-sliding {
   background-color: #fff;
 }
@@ -15217,6 +15570,10 @@ ion-label[floating] {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .label-ios-orange,
 .item-input .label-ios-orange,
 .item-select .label-ios-orange,
@@ -15224,6 +15581,11 @@ ion-label[floating] {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .label-md {
   margin: 13px 8px 13px 0;
 }
@@ -15318,6 +15680,10 @@ ion-label[floating] {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .label-md-orange,
 .item-input .label-md-orange,
 .item-select .label-md-orange,
@@ -15325,6 +15691,11 @@ ion-label[floating] {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .label-wp {
   margin: 13px 8px 13px 0;
 }
@@ -15410,6 +15781,10 @@ ion-label[floating] {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .label-wp-orange,
 .item-input .label-wp-orange,
 .item-select .label-wp-orange,
@@ -15417,6 +15792,11 @@ ion-label[floating] {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-list-header {
   margin: 0;
   padding: 0;
@@ -15591,11 +15971,20 @@ ion-list[inset] {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .list-header-ios-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .list-md {
   margin: -1px 0 16px;
 }
@@ -15721,11 +16110,20 @@ ion-list[inset] {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .list-header-md-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .list-md .item-input:last-child {
   border-bottom: 1px solid #dedede;
 }
@@ -15859,11 +16257,20 @@ ion-list[inset] {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .list-header-wp-orange {
   color: #fff;
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-loading {
   left: 0;
   right: 0;
@@ -16243,10 +16650,19 @@ ion-modal {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .note-ios-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .note-md {
   color: #c5c5c5;
 }
@@ -16271,10 +16687,19 @@ ion-modal {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .note-md-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .note-wp {
   color: rgba(0, 0, 0, 0.5);
 }
@@ -16299,10 +16724,19 @@ ion-modal {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .note-wp-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-picker-cmp {
   left: 0;
   top: 0;
@@ -17044,6 +17478,10 @@ ion-popover {
   border-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .item-radio-ios-orange.item-radio-checked ion-label {
   color: #FF8000;
 }
@@ -17056,6 +17494,11 @@ ion-popover {
   border-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .radio-md {
   position: relative;
   display: inline-block;
@@ -17184,6 +17627,10 @@ ion-popover {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .item-radio-md-orange.item-radio-checked ion-label {
   color: #FF8000;
 }
@@ -17196,6 +17643,11 @@ ion-popover {
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .radio-wp {
   position: relative;
   display: inline-block;
@@ -17282,10 +17734,19 @@ ion-popover {
   border-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .radio-wp-orange .radio-checked {
   border-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .item-range .item-inner {
   overflow: visible;
   width: 100%;
@@ -17482,11 +17943,20 @@ ion-range ion-icon {
   background: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .range-ios-orange .range-bar-active,
 .range-ios-orange .range-tick-active {
   background: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .range-md {
   padding: 8px;
 }
@@ -17742,6 +18212,10 @@ ion-range ion-icon {
   background: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .range-md-orange .range-md .range-knob-min.range-knob-min .range-knob {
   border: 2px solid #bdbdbd;
   background: #fff;
@@ -17760,6 +18234,11 @@ ion-range ion-icon {
   background: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .range-wp {
   padding: 8px;
 }
@@ -17904,6 +18383,10 @@ ion-range ion-icon {
   background: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .range-wp-orange .range-bar-active,
 .range-wp-orange .range-tick-active,
 .range-wp-orange .range-knob,
@@ -17911,6 +18394,11 @@ ion-range ion-icon {
   background: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-refresher {
   left: 0;
   top: 0;
@@ -18399,6 +18887,10 @@ ion-searchbar {
   color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .searchbar-ios-orange .searchbar-ios-cancel {
   color: #FF8000;
 }
@@ -18437,6 +18929,11 @@ ion-searchbar {
   color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .searchbar-ios.searchbar-animated.searchbar-show-cancel .searchbar-ios-cancel {
   display: block;
 }
@@ -18669,10 +19166,19 @@ ion-searchbar {
   border-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .searchbar-wp-orange.searchbar-has-focus .searchbar-input-container {
   border-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-segment {
   display: -webkit-box;
   display: -webkit-flex;
@@ -18935,6 +19441,10 @@ ion-segment {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .segment-ios-orange .segment-button {
   border-color: #FF8000;
   color: #FF8000;
@@ -18961,6 +19471,11 @@ ion-segment {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .segment-md .segment-button {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
@@ -19058,6 +19573,10 @@ ion-segment {
   opacity: 1;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .segment-md-orange .segment-button {
   color: #FF8000;
 }
@@ -19068,6 +19587,11 @@ ion-segment {
   opacity: 1;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .segment-wp {
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
@@ -19156,6 +19680,10 @@ ion-segment {
   opacity: 1;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .segment-wp-orange .segment-button {
   color: #FF8000;
 }
@@ -19166,6 +19694,11 @@ ion-segment {
   opacity: 1;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-select {
   display: -webkit-box;
   display: -webkit-flex;
@@ -20148,6 +20681,10 @@ ion-spinner.spinner-paused svg {
   fill: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .spinner-ios-orange.spinner-ios line,
 .spinner-ios-orange.spinner-ios-small line,
 .spinner-ios-orange.spinner-crescent circle {
@@ -20160,6 +20697,11 @@ ion-spinner.spinner-paused svg {
   fill: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .spinner-md-ios line,
 .spinner-md-ios-small line {
   stroke: #69717d;
@@ -20241,6 +20783,10 @@ ion-spinner.spinner-paused svg {
   fill: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .spinner-md-orange.spinner-ios line,
 .spinner-md-orange.spinner-ios-small line,
 .spinner-md-orange.spinner-crescent circle {
@@ -20253,6 +20799,11 @@ ion-spinner.spinner-paused svg {
   fill: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .spinner-wp-ios line,
 .spinner-wp-ios-small line {
   stroke: #69717d;
@@ -20334,6 +20885,10 @@ ion-spinner.spinner-paused svg {
   fill: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .spinner-wp-orange.spinner-ios line,
 .spinner-wp-orange.spinner-ios-small line,
 .spinner-wp-orange.spinner-crescent circle {
@@ -20346,6 +20901,11 @@ ion-spinner.spinner-paused svg {
   fill: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .split-pane {
   left: 0;
   right: 0;
@@ -20834,6 +21394,10 @@ ion-spinner.spinner-paused svg {
   color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .tabs-ios-orange .tabbar {
   border-color: #cc6600;
   background-color: #FF8000;
@@ -20851,6 +21415,11 @@ ion-spinner.spinner-paused svg {
   color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .tabs-md .tabbar {
   background: #f8f8f8;
 }
@@ -21058,6 +21627,10 @@ ion-spinner.spinner-paused svg {
   background: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .tabs-md-orange .tabbar {
   background-color: #FF8000;
 }
@@ -21077,6 +21650,11 @@ ion-spinner.spinner-paused svg {
   background: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .tabs-wp .tabbar {
   background: #f8f8f8;
 }
@@ -21237,6 +21815,10 @@ ion-spinner.spinner-paused svg {
   color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .tabs-wp-orange .tabbar {
   background-color: #FF8000;
 }
@@ -21254,6 +21836,11 @@ ion-spinner.spinner-paused svg {
   color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-toast {
   left: 0;
   top: 0;
@@ -21519,10 +22106,19 @@ ion-toast {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toggle-ios-orange.toggle-checked .toggle-icon {
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toggle-md {
   position: relative;
   width: 36px;
@@ -21640,6 +22236,10 @@ ion-toast {
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toggle-md-orange.toggle-checked .toggle-icon {
   background-color: #ffc080;
 }
@@ -21648,6 +22248,11 @@ ion-toast {
   background-color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toggle-wp {
   position: relative;
   width: 40px;
@@ -21767,6 +22372,10 @@ ion-toast {
   background-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toggle-wp-orange.toggle-checked .toggle-icon {
   border-color: #FF8000;
   background-color: #FF8000;
@@ -21776,6 +22385,11 @@ ion-toast {
   background-color: #fff;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 ion-toolbar {
   position: relative;
   z-index: 10;
@@ -22412,6 +23026,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-ios-primary .bar-button-orange-ios,
 .toolbar-ios-primary .bar-button-default.bar-button-ios-orange,
 .toolbar-ios-primary .bar-button-clear-ios-orange {
@@ -22452,6 +23070,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-primary-ios,
 .bar-button-default.bar-button-ios-primary,
 .bar-button-clear-ios-primary {
@@ -22702,6 +23325,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-ios-secondary .bar-button-orange-ios,
 .toolbar-ios-secondary .bar-button-default.bar-button-ios-orange,
 .toolbar-ios-secondary .bar-button-clear-ios-orange {
@@ -22742,6 +23369,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-secondary-ios,
 .bar-button-default.bar-button-ios-secondary,
 .bar-button-clear-ios-secondary {
@@ -22992,6 +23624,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-ios-danger .bar-button-orange-ios,
 .toolbar-ios-danger .bar-button-default.bar-button-ios-orange,
 .toolbar-ios-danger .bar-button-clear-ios-orange {
@@ -23032,6 +23668,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-danger-ios,
 .bar-button-default.bar-button-ios-danger,
 .bar-button-clear-ios-danger {
@@ -23282,6 +23923,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-ios-light .bar-button-orange-ios,
 .toolbar-ios-light .bar-button-default.bar-button-ios-orange,
 .toolbar-ios-light .bar-button-clear-ios-orange {
@@ -23322,6 +23967,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-light-ios,
 .bar-button-default.bar-button-ios-light,
 .bar-button-clear-ios-light {
@@ -23572,6 +24222,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-ios-dark .bar-button-orange-ios,
 .toolbar-ios-dark .bar-button-default.bar-button-ios-orange,
 .toolbar-ios-dark .bar-button-clear-ios-orange {
@@ -23612,6 +24266,8 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
 .bar-button-dark-ios,
 .bar-button-default.bar-button-ios-dark,
 .bar-button-clear-ios-dark {
@@ -23652,6 +24308,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-ios-orange .toolbar-background-ios {
   background: #FF8000;
 }
@@ -23942,6 +24602,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-strong-ios {
   font-weight: 600;
 }
@@ -24392,6 +25057,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-md-primary .bar-button-orange-md,
 .toolbar-md-primary .bar-button-clear-md-orange,
 .toolbar-md-primary .bar-button-md-orange {
@@ -24429,6 +25098,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-primary-md,
 .bar-button-clear-md-primary,
 .bar-button-md-primary {
@@ -24672,6 +25346,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-md-secondary .bar-button-orange-md,
 .toolbar-md-secondary .bar-button-clear-md-orange,
 .toolbar-md-secondary .bar-button-md-orange {
@@ -24709,6 +25387,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-secondary-md,
 .bar-button-clear-md-secondary,
 .bar-button-md-secondary {
@@ -24952,6 +25635,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-md-danger .bar-button-orange-md,
 .toolbar-md-danger .bar-button-clear-md-orange,
 .toolbar-md-danger .bar-button-md-orange {
@@ -24989,6 +25676,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-danger-md,
 .bar-button-clear-md-danger,
 .bar-button-md-danger {
@@ -25232,6 +25924,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-md-light .bar-button-orange-md,
 .toolbar-md-light .bar-button-clear-md-orange,
 .toolbar-md-light .bar-button-md-orange {
@@ -25269,6 +25965,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-light-md,
 .bar-button-clear-md-light,
 .bar-button-md-light {
@@ -25512,6 +26213,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-md-dark .bar-button-orange-md,
 .toolbar-md-dark .bar-button-clear-md-orange,
 .toolbar-md-dark .bar-button-md-orange {
@@ -25549,6 +26254,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-dark-md,
 .bar-button-clear-md-dark,
 .bar-button-md-dark {
@@ -25583,6 +26293,10 @@ ion-navbar.toolbar {
 
 .bar-button-solid-md-dark.activated {
   color: #fff;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
   background-color: #343434;
 }
 
@@ -25864,6 +26578,12 @@ ion-navbar.toolbar {
 .bar-button-solid-md-orange.activated {
   color: #fff;
   background-color: #ff8a14;
+<<<<<<< HEAD
+=======
+=======
+  background-color: #343434;
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 }
 
 .bar-button-strong-md {
@@ -26263,6 +26983,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-wp-primary .bar-button-orange-wp,
 .toolbar-wp-primary .bar-button-clear-wp-orange,
 .toolbar-wp-primary .bar-button-wp-orange {
@@ -26297,6 +27021,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-primary-wp,
 .bar-button-clear-wp-primary,
 .bar-button-wp-primary {
@@ -26516,6 +27245,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-wp-secondary .bar-button-orange-wp,
 .toolbar-wp-secondary .bar-button-clear-wp-orange,
 .toolbar-wp-secondary .bar-button-wp-orange {
@@ -26550,6 +27283,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-secondary-wp,
 .bar-button-clear-wp-secondary,
 .bar-button-wp-secondary {
@@ -26769,6 +27507,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-wp-danger .bar-button-orange-wp,
 .toolbar-wp-danger .bar-button-clear-wp-orange,
 .toolbar-wp-danger .bar-button-wp-orange {
@@ -26803,6 +27545,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-danger-wp,
 .bar-button-clear-wp-danger,
 .bar-button-wp-danger {
@@ -27022,6 +27769,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-wp-light .bar-button-orange-wp,
 .toolbar-wp-light .bar-button-clear-wp-orange,
 .toolbar-wp-light .bar-button-wp-orange {
@@ -27056,6 +27807,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-light-wp,
 .bar-button-clear-wp-light,
 .bar-button-wp-light {
@@ -27275,6 +28031,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-wp-dark .bar-button-orange-wp,
 .toolbar-wp-dark .bar-button-clear-wp-orange,
 .toolbar-wp-dark .bar-button-wp-orange {
@@ -27309,6 +28069,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-dark-wp,
 .bar-button-clear-wp-dark,
 .bar-button-wp-dark {
@@ -27343,6 +28108,10 @@ ion-navbar.toolbar {
   background-color: #343434;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .toolbar-wp-orange .toolbar-background-wp {
   background: #FF8000;
 }
@@ -27596,6 +28365,11 @@ ion-navbar.toolbar {
   background-color: #ff8a14;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .bar-button-strong-wp {
   font-weight: bold;
 }
@@ -27620,10 +28394,19 @@ ion-navbar.toolbar {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .text-ios-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .text-md-primary {
   color: #488aff;
 }
@@ -27644,10 +28427,19 @@ ion-navbar.toolbar {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .text-md-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .text-wp-primary {
   color: #488aff;
 }
@@ -27668,10 +28460,19 @@ ion-navbar.toolbar {
   color: #222;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .text-wp-orange {
   color: #FF8000;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 .virtual-loading {
   opacity: 0;
 }
@@ -27971,7 +28772,16 @@ ion-navbar.toolbar {
   min-height: calc(46px + constant(safe-area-inset-bottom));
   min-height: calc(46px + env(safe-area-inset-bottom));
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
 
 page-lista-articulos {
   color: coral;
 }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a30b55d105024d2b67617f136834d3cd5fcaf890
+>>>>>>> 7cc089a4e6e16e0204e1e169a53e74150e730e08
